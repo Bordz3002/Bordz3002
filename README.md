@@ -1,34 +1,22 @@
-<h1 align="center">Hi 👋, I'm <pmnvn></h1>
-<h3 align="center">I'm a software developer with a passion for Android modding (rooting, custom ROMs, kernel tweaks) and currently learning web development. I’ve worked with HTML, CSS, and JavaScript and am diving into TypeScript.</h3>
+# 💫 About Me:
+# Hi there, pmnvn 👋<br><br>I'm an **Android enthusiast** who loves **modifying and rooting devices** for performance management. I enjoy optimizing systems and exploring the inner workings of Android to make devices perform at their best.  <br><br>---<br><br>## 🌱 Currently Learning<br>- **Web Development**  <br>  - Already studied: HTML & CSS  <br>  - Currently mastering: JavaScript & TypeScript  <br>  - Next up: Angular  <br><br>---<br><br>## 💻 Interests<br>- Android rooting & performance tweaks  <br>- Building smooth and optimized user experiences  <br>- Learning modern web technologies  <br><br>---<br><br>## 📫 Connect with me<br>- Feel free to reach out on GitHub or drop a message on my repositories!
 
-- 🔭 I’m currently working on [FrontEnd. interactive web](HTML,CSS,JAVASCRIPT, TYPESCRIPT)
 
-- 🌱 I’m currently learning **JAVASCRIPT, TYPESCRIPT, ANGULAR**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pmn vallarta naval) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pmn vallarta naval) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bubordz2003@gmail.com) 
 
-- 👯 I’m looking to collaborate on [web development](https://github.com/Bordz3002/)
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Bordz3002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Bordz3002&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bordz3002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🤝 I’m looking for help with [web ui rendering](https://github.com/Bordz3002/practiceweb)
+---
+[![](https://visitcount.itsvg.in/api?id=Bordz3002&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bordz3002](https://github.com/Bordz3002)
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.facebook.com/share/1AHU4jUaua/) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.facebook.com/share/1AHU4jUaua/) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://www.facebook.com/share/1AHU4jUaua/) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://www.facebook.com/share/1AHU4jUaua/) 
 
-- 💬 Ask me about **FRONT END LANGUAGES**
-
-- 📫 How to reach me **bubordz2003@gmail.com**
-
-- 📄 Know about my experiences [wrote: custom c++ stl/algorithms libraries ported to arduino ide.](wrote: custom c++ stl/algorithms libraries ported to arduino ide.)
-
-- ⚡ Fun fact **I moddify android devices too, system-wide**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/pmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pmn" height="30" width="40" /></a>
-<a href="https://instagram.com/pmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pmn" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.facebook.com/share/1AHU4jUaua/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.facebook.com/share/1AHU4jUaua/" /></a><a href="https://ko-fi.com/https://www.facebook.com/share/1AHU4jUaua/"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://www.facebook.com/share/1AHU4jUaua/" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bordz3002&show_icons=true&locale=en&layout=compact" alt="bordz3002" /></p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
