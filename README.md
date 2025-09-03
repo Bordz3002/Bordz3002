@@ -1,41 +1,75 @@
-## infographic
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Bordz3002.Bordz3002&right_color=orange"  />
+</div>
 
-pmnvn
+###
 
-## About Me
+<div align="left">
+  <a href="https://open.spotify.com/user/31vsakylfof3elmdfnrmvvydaaay">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vsakylfof3elmdfnrmvvydaaay&count=3&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
 
-I'm a polymath based in an undisclosed location. While I currently do not represent any company, I am dedicated to continuous learning and expanding my horizons in technology.
+###
 
-## Skills & Technologies
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-cpp,arduino,html,css,git,linux,aws,postgres,angular,autocad,azure,c,bash,github,vscode,ubuntu
+###
 
-## Top Projects
+<img src="https://raw.githubusercontent.com/Bordz3002/Bordz3002/output/snake.svg" alt="Snake animation" />
 
-- [**angular-framework-learning**](https://github.com/Bordz3002/angular-framework-learning): Practice projects structure. ⭐ 0 | Language: TypeScript
-- [**proto-gps-lib**](https://github.com/Bordz3002/proto-gps-lib): A customized GPS library for ease of use. ⭐ 0 | Language: C++
-- [**proto-compass-lib**](https://github.com/Bordz3002/proto-compass-lib): A custom library for reading and using the QMC5883L compass. ⭐ 0 | Language: C++
-- [**arduino-env-ported-cpp-stdlib**](https://github.com/Bordz3002/arduino-env-ported-cpp-stdlib): Template-based library importing basic C++ functions onto Arduino Environment. ⭐ 0 | Language: C++
-- [**prototype-vector-library**](https://github.com/Bordz3002/prototype-vector-library): Custom VECTOR that functions like the C++ standard STL Vector. ⭐ 0 | Language: C++
+###
 
-## GitHub Stats
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+</div>
 
-🌟 **Public Repositories:** 10
-👥 **Followers:** 0
-👤 **Following:** 1
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bordz3002&show_icons=true&hide_title=true&count_private=true&theme=radical)
+###
 
-## Recent Activity
+<div align="center">
+  <img height="200" src="https://i.gifer.com/6tXM.gif"  />
+</div>
 
-Here are some of my latest GitHub activities:
-- Created [**angular-framework-learning**](https://github.com/Bordz3002/angular-framework-learning) on 08/18/2025.
-- Created [**proto-gps-lib**](https://github.com/Bordz3002/proto-gps-lib) on 03/23/2025.
-- Created [**proto-compass-lib**](https://github.com/Bordz3002/proto-compass-lib) on 03/27/2025.
-
-## Latest Blog Posts
-
-Currently, I do not have any blog posts to share. Stay tuned for updates!
-
-## Connect with Me
-
-{"generic":"https://www.facebook.com/share/1AHU4jUaua/"}
+###
