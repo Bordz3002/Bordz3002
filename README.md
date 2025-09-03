@@ -1,29 +1,41 @@
-<h1 align="center">name: pmnvn</h1>
-<h3 align="center">a polymath learner</h3>
+## infographic
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bordz3002&label=Profile%20views&color=0e75b6&style=flat" alt="bordz3002" /> </p>
+pmnvn
 
-- 🔭 I’m currently working/learning on [angular framework](https://github.com/Bordz3002/angular-framework-learning.git)
+## About Me
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bordz3002?tab=repositories](https://github.com/Bordz3002?tab=repositories)
+I'm a polymath based in an undisclosed location. While I currently do not represent any company, I am dedicated to continuous learning and expanding my horizons in technology.
 
-- 💬 Ask me about **angular, javascript, dsa's, css, html5, c, c++, arduino,circuits, android**
+## Skills & Technologies
 
-- 📫 How to reach me **bubordz2003@gmail.com**
+cpp,arduino,html,css,git,linux,aws,postgres,angular,autocad,azure,c,bash,github,vscode,ubuntu
 
-- ⚡ Fun fact **:I tinker/modify android systems**
+## Top Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/pmn vallarta naval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pmn vallarta naval" height="30" width="40" /></a>
-<a href="https://instagram.com/pmn vallarta naval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pmn vallarta naval" height="30" width="40" /></a>
-</p>
+- [**angular-framework-learning**](https://github.com/Bordz3002/angular-framework-learning): Practice projects structure. ⭐ 0 | Language: TypeScript
+- [**proto-gps-lib**](https://github.com/Bordz3002/proto-gps-lib): A customized GPS library for ease of use. ⭐ 0 | Language: C++
+- [**proto-compass-lib**](https://github.com/Bordz3002/proto-compass-lib): A custom library for reading and using the QMC5883L compass. ⭐ 0 | Language: C++
+- [**arduino-env-ported-cpp-stdlib**](https://github.com/Bordz3002/arduino-env-ported-cpp-stdlib): Template-based library importing basic C++ functions onto Arduino Environment. ⭐ 0 | Language: C++
+- [**prototype-vector-library**](https://github.com/Bordz3002/prototype-vector-library): Custom VECTOR that functions like the C++ standard STL Vector. ⭐ 0 | Language: C++
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bordz3002&show_icons=true&locale=en&layout=compact" alt="bordz3002" /></p>
+🌟 **Public Repositories:** 10
+👥 **Followers:** 0
+👤 **Following:** 1
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bordz3002&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bordz3002&show_icons=true&locale=en" alt="bordz3002" /></p>
+## Recent Activity
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bordz3002&" alt="bordz3002" /></p>
+Here are some of my latest GitHub activities:
+- Created [**angular-framework-learning**](https://github.com/Bordz3002/angular-framework-learning) on 08/18/2025.
+- Created [**proto-gps-lib**](https://github.com/Bordz3002/proto-gps-lib) on 03/23/2025.
+- Created [**proto-compass-lib**](https://github.com/Bordz3002/proto-compass-lib) on 03/27/2025.
+
+## Latest Blog Posts
+
+Currently, I do not have any blog posts to share. Stay tuned for updates!
+
+## Connect with Me
+
+{"generic":"https://www.facebook.com/share/1AHU4jUaua/"}
