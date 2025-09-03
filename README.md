@@ -1,4 +1,4 @@
-<strong><h2 style="color:orange">About me</h2></strong>
+<header><h1>About me</h1></header>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Bordz3002.Bordz3002&right_color=orange"  />
 </div>
