@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>bd35bd68bb4f03347f42f8c0a6fccf3e<br>• i spend most of my time designing, breaking, and rebuilding things across:<br>• web development (modern JS stacks, pragmatic architecture, performance-first thinking)<br>• Android & Kotlin (clean code, tooling, and disciplined fundamentals)<br>• Robotics & control systems (simulation-first, data-driven decisions)<br>•Systems thinking (networks, automation pipelines, and scalable coordination)<br>Philosophy<br>• I’m not chasing trends—I’m stacking capabilities. The goal is leverage: systems that scale, automate, and think ahead. Curiosity drives the roadmap; discipline ships the work.
+<br>bd35bd68bb4f03347f42f8c0a6fccf3e<br>• e3ed29ef7671b00aee7b1c756ff15777<br>• 69dd52036172f02c46e13ced7a96e398<br>• 7b69a33c6929a5fb8892e3e551a56694<br>• 4959a190b88c9ed8c880347b07425f76<br>• 492b6716625b89fe73c807d41c94562f<br>e5348e0c46480066c8c2176421798201<br>• 8b8856c5cff80c50c7635275c9a25fa5
 
 
 ## 🌐 Socials:
