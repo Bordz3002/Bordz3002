@@ -1,5 +1,5 @@
 # 💫 About Me:
-currently learning kotlin language<br>can collaborate on open source projects<br>a polymath learner
+a polymath learner.
 
 
 ## 🌐 Socials:
