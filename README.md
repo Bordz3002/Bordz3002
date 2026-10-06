@@ -21,6 +21,7 @@ a polymath learner.
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Bordz3002&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="naval's GitHub Trophies" />
 </p>
+![](https://streak-stats.demolab.com/?user=Bordz3002&theme=gruvbox&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bordz3002&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
