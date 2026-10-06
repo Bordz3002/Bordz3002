@@ -21,7 +21,10 @@ a polymath learner.
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Bordz3002&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="naval's GitHub Trophies" />
 </p>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bordz3002&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Bordz3002&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bordz3002&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
