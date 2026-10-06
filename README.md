@@ -11,6 +11,22 @@ a polymath learner.
 <!--![](https://github-readme-stats.shion.dev/api?username=Bordz3002&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/>-->
 <!--![](https://streak-stats.demolab.com/?user=Bordz3002&theme=gruvbox&hide_border=true)<br/>-->
 <!--![](https://github-readme-stats.shion.dev/api/top-langs/?username=Bordz3002&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/Bordz3002">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bordz3002&cache_seconds=7200&layout=compact&theme=gruvbox&border_radius=10" alt="Bordz3002's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Bordz3002&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="Bordz3002's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Bordz3002&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="naval's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Bordz3002&theme=gruvbox&radius=10" alt="Bordz3002's Activity Graph" />
+</p>
+<p align="center">
+  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Bordz3002&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
